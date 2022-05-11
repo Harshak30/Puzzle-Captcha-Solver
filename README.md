@@ -1,0 +1,2 @@
+# Puzzle-Captcha-Solver
+Web scraping is the process of using bots to extract content and data from a website. Scraping data which is already available in public domain is legal as long as the data used ethically. If websites wish to prevent web scraping, will employ techniques like CAPTCHA forms Captcha are tools you can use to differentiate between real users and automated users, such as bots. This Puzzle Based Captcha Solver project mainly focuses on solution to bypass captcha.
